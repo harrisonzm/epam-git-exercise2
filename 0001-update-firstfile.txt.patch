@@ -1,0 +1,24 @@
+From 47e988f638abbe7b5e9cfd2a2f61da5cf0ce1c4a Mon Sep 17 00:00:00 2001
+From: Harrison Zuleta Montoya <124377148+harrisonzm@users.noreply.github.com>
+Date: Sat, 24 Oct 2026 13:01:02 -0500
+Subject: [PATCH] update firstfile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..f2e7536 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1uno
++2dos
+ 3
+ 4
+ 5
+-- 
+2.55.0.windows.3
+
